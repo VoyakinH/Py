@@ -1,0 +1,5 @@
+txt = str(input('Введите строку: '))
+print(txt)
+a = ' '.split(txt)
+print(a)
+print(txt[0][0])
